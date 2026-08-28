@@ -17,6 +17,7 @@ Features
 - 🐧 Built for Unix-like environments
 
 Install (only on MacOS/Linux):
+
 ```sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/LT5B/cost-1.1/refs/heads/main/install.sh)"```
 
 Philosophy
