@@ -17,8 +17,7 @@ Features
 - 🐧 Built for Unix-like environments
 
 Install (only on MacOS/Linux):
-<clipboard-copy for="my-text" class="btn">Copy</clipboard-copy>
-<div id="">sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/LT5B/cost-1.1/refs/heads/main/install.sh)"</div>
+```sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/LT5B/cost-1.1/refs/heads/main/install.sh)"```
 Philosophy
 
 Cost is designed around three principles:
