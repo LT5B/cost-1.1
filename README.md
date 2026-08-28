@@ -18,7 +18,7 @@ Features
 
 Install (only on MacOS/Linux):
 <clipboard-copy for="my-text" class="btn">Copy</clipboard-copy>
-<div id="Copy">sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/LT5B/cost-1.1/refs/heads/main/install.sh)"</div>
+<div id="">sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/LT5B/cost-1.1/refs/heads/main/install.sh)"</div>
 Philosophy
 
 Cost is designed around three principles:
