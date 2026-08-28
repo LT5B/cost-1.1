@@ -5,16 +5,16 @@ Cost is a Bash-based package management script designed to provide a simple and 
 Created by LT5B.
 
 Features
-📦 Simple package management
-⚡ Lightweight Bash implementation
-🖥️ Command-line interface
-🔍 Search for available packages
-📥 Install packages
-🗑️ Remove packages
-🔄 Update packages
-📋 View package information
-🧩 Designed to be easy to extend
-🐧 Built for Unix-like environments
+- 📦 Simple package management
+- ⚡ Lightweight Bash implementation
+- 🖥️ Command-line interface
+- 🔍 Search for available packages
+- 📥 Install packages
+- 🗑️ Remove packages
+- 🔄 Update packages
+- 📋 View package information
+- 🧩 Designed to be easy to extend
+- 🐧 Built for Unix-like environments
 
 Philosophy
 
